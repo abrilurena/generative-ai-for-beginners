@@ -8,7 +8,7 @@ Para apoyarte, hemos creado esta página que describe los pasos de configuració
 
 Para comenzar este curso, deberás completar los siguientes pasos.
 
-### 1. Fork (Bifurca) este repo
+### 1. Fork (Bifurca) este repositorio
 
 [Fork (Bifurca) todo el repositorio](https://github.com/microsoft/generative-ai-for-beginners/fork?WT.mc_id=academic-105485-koreyst) A tu propia cuenta de GitHub para poder modificar cualquier código y completar los desafíos. También puedes [marcar con una estrella (🌟) este repositorio](https://docs.github.com/en/get-started/exploring-projects-on-github/saving-repositories-with-stars?WT.mc_id=academic-105485-koreyst) para encontrarlo más fácilmente.
 
